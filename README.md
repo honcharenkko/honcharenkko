@@ -48,7 +48,7 @@
 
 ### 📫 How to Reach Me:
 - 📧 Email: nikitatoser@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/Nikitatoser)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mykyta-honcharenko-699564326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
 
 ---
