@@ -42,7 +42,8 @@
 
 - **[Project 1](https://github.com/Nikitatoser/project1)**: A mobile app built with Kotlin and Firebase for real-time data management.
 - **[Project 2](https://github.com/Nikitatoser/FoodShalom)**: A backend system using Django and PostgreSQL to handle complex API requests.
-- **[Project 3](https://github.com/Nikitatoser/project3)**: A Telegram bot powered by AI to automate digital assistant tasks.
+- **[Project 3](https://github.com/Nikitatoser/TeleBot)**: A Telegram bot powered by AI to automate digital assistant tasks.
+- **[Project 4](https://github.com/Nikitatoser/NudelMag)**: The site of the restaurant of Asian cuisine is developed in Django.
 
 ---
 
