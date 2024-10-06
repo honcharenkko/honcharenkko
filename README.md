@@ -6,12 +6,13 @@
 
 ## 📌 About Me
 
-- ![Mobile](https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif) **Mobile Development**: Expertise in building mobile applications with **Kotlin**.
-- ![Backend](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif) **Backend Development**: Proficient in **Python** and the **Django** framework for creating robust back-end systems.
-- ![Web Development](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) **Web Development**: Strong understanding of front-end technologies, including **HTML** and **CSS**.
-- ![Database](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif) **Database Management**: Experienced in working with databases like **Firebase**, **Redis**, **MySQL**, and **PostgreSQL**.
-- ![AI](https://media.giphy.com/media/UHcOgsSh5L6wHrcI46/giphy.gif) **AI & Automation**: Developed neural network-based applications, digital assistants, and **Telegram bots**.
-- ![Learning](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) **Continuous Learning**: Always keen on exploring new technologies and embracing challenging projects to expand my skill set.
+- **Mobile Application Development**: Extensive experience in developing mobile applications using **Kotlin**, with a focus on creating efficient and user-friendly solutions.
+- **Backend Development**: Proficient in backend development using **Python** and the **Django** framework, with expertise in building scalable and secure systems.
+- **Web Development**: Solid understanding of front-end technologies, including **HTML** and **CSS**, for creating responsive and accessible web interfaces.
+- **Database Management**: Skilled in working with relational and NoSQL databases, such as **Firebase**, **Redis**, **MySQL**, and **PostgreSQL**.
+- **Artificial Intelligence & Automation**: Practical experience in developing neural network applications, digital assistants, and automating workflows using **Telegram bots**.
+- **Continuous Learning & Adaptability**: Committed to continuous professional growth and staying updated with the latest technologies, while consistently seeking out new challenges and opportunities for innovation.
+
 
 
 ---
