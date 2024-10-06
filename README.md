@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mykyta Honcharenko
+# Mykyta Honcharenko
 
 ### 💻 Mobile Developer | Backend Engineer | Web Enthusiast | AI Enthusiast
 
