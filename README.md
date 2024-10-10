@@ -16,29 +16,40 @@
 
 ### 👨‍💻 About Me
 
-- **Education**:  
-  Currently a **4th-year Software Engineering student** at **Kyiv Polytechnic Institute (KPI), Ukraine**. Focused on modern software development technologies and continuously improving my skills.
-
-- **Mobile Application Development**:  
-  Extensive experience in developing mobile applications using **Kotlin**, concentrating on creating efficient and user-friendly solutions.
-
-- **Backend Development**:  
-  Proficient in backend development with **Python** and the **Django** framework. Skilled in building scalable and secure systems.
-
-- **Web Development**:  
-  Solid understanding of front-end technologies, including **HTML5** and **CSS3**, for creating responsive and accessible web interfaces.
-
-- **Database Management**:  
-  Experienced in working with both relational and NoSQL databases, such as **Firebase**, **Redis**, **MySQL**, and **PostgreSQL**. Knowledgeable in optimizing database performance.
-
-- **Artificial Intelligence & Automation**:  
-  Practical experience in developing neural networks, digital assistants, and automating workflows using **Telegram bots**.
-
-- **Continuous Learning & Adaptability**:  
-  Committed to professional growth and staying updated with the latest technologies, while consistently seeking new challenges and opportunities for innovation.
-
-📫 **How to reach me**:  
-Feel free to reach out via email at [honcharenkko@gmaile.com](mailto:honcharenkko@gmaile.com) for collaborations or inquiries.
+<table>
+  <tr>
+    <td><strong>🎓 Education</strong></td>
+    <td><strong>4th-year Software Engineering student</strong> at <strong>Kyiv Polytechnic Institute (KPI), Ukraine</strong>. Focus on modern software development technologies and improving technical skills continuously.</td>
+  </tr>
+  <tr>
+    <td><strong>📱 Mobile Application Development</strong></td>
+    <td>Extensive experience in developing mobile applications using <strong>Kotlin</strong>. Focus on creating efficient and user-friendly solutions.</td>
+  </tr>
+  <tr>
+    <td><strong>🖥️ Backend Development</strong></td>
+    <td>Proficient in backend development with <strong>Python</strong> and <strong>Django</strong>. Skilled in building scalable and secure systems.</td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Web Development</strong></td>
+    <td>Solid understanding of front-end technologies like <strong>HTML5</strong> and <strong>CSS3</strong>. Focus on creating responsive and accessible web interfaces.</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database Management</strong></td>
+    <td>Experienced in relational and NoSQL databases such as <strong>Firebase</strong>, <strong>Redis</strong>, <strong>MySQL</strong>, and <strong>PostgreSQL</strong>. Knowledgeable in optimizing database performance.</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 Artificial Intelligence & Automation</strong></td>
+    <td>Practical experience in developing neural networks and <strong>Telegram bots</strong> for automation. Skilled in creating digital assistants and automating workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>📚 Continuous Learning & Adaptability</strong></td>
+    <td>Committed to professional growth, staying updated with the latest technologies. Always seeking new challenges and opportunities for innovation.</td>
+  </tr>
+  <tr>
+    <td><strong>📫 How to reach me</strong></td>
+    <td>Email: <a href="mailto:honcharenkko@gmaile.com"><strong>honcharenkko@gmaile.com</strong></a> for collaborations or inquiries.</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Jybjl5Mmx4OWRoZGs1ajkxaGJ6YTBpZXJkNHJlMmh6Z3BvMmIwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ghI1gyqKymbY2mfYkD/giphy.gif" alt="coding-gif" width="400"/>
