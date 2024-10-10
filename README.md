@@ -46,12 +46,6 @@
 ---
 
 ### 📊 GitHub Stats & Activity :
-
-<p align="center">
-  <!-- Загальна статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitatoser&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="nikitatoser-github-stats" />
-</p>
-
 <p align="center">
   <!-- Статистика по мові -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitatoser&layout=compact&langs_count=8&theme=radical" alt="top-languages" />
@@ -67,11 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitatoser&theme=radical" alt="github-summary" />
 </p>
 
-<p align="center">
-  <!-- Остання активність -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nikitatoser&theme=react-dark&hide_border=true&area=true" alt="nikitatoser-activity-graph" />
-</p>
-
 ---
 
 ## 🚀 My Projects :
@@ -82,8 +71,8 @@
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <p align="center">
-          <a href="https://github.com/Nikitatoser/project-1">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=project-1&theme=radical" alt="Project 1" />
+          <a href="https://github.com/Nikitatoser/FoodShalom">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=FoodShalom&theme=radical" alt="Project 1" />
           </a>
         </p>
         <p align="center">
