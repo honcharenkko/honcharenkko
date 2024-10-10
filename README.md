@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://your-website.com">🌐 Website</a> |
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> |
-  <a href="https://twitter.com/your-profile">Twitter</a>
+  <a href="https://www.linkedin.com/in/mykyta-honcharenko-699564326/">LinkedIn</a>
 </p>
 
 ---
