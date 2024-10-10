@@ -16,10 +16,12 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 I’m currently working on **[Project Name](https://github.com/Nikitatoser/project-1)**
-- 🌱 I’m currently learning **Advanced Kotlin, Microservices, and Cloud Architectures**
-- 💬 Ask me about **Kotlin, Python, Django, Backend development, and Mobile app development**
-- 🎯 Fun Fact: I'm passionate about optimizing performance and building mobile-first experiences!
+- **Mobile Application Development**: Extensive experience in developing mobile applications using **Kotlin**, with a focus on creating efficient and user-friendly solutions.
+- **Backend Development**: Proficient in backend development using **Python** and the **Django** framework, with expertise in building scalable and secure systems.
+- **Web Development**: Solid understanding of front-end technologies, including **HTML** and **CSS**, for creating responsive and accessible web interfaces.
+- **Database Management**: Skilled in working with relational and NoSQL databases, such as **Firebase**, **Redis**, **MySQL**, and **PostgreSQL**.
+- **Artificial Intelligence & Automation**: Practical experience in developing neural network applications, digital assistants, and automating workflows using **Telegram bots**.
+- **Continuous Learning & Adaptability**: Committed to continuous professional growth and staying updated with the latest technologies, while consistently seeking out new challenges and opportunities for innovation.
 - 📫 How to reach me: **[honcharenkko@gmaile.com](mailto:honcharenkko@gmaile.com)**
 
 <p align="center">
