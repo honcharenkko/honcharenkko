@@ -108,13 +108,13 @@
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <p align="center">
-          <a href="https://github.com/Nikitatoser/project-2">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=project-2&theme=radical" alt="Project 2" />
+          <a href="https://github.com/Nikitatoser/TeleBot">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=TeleBottheme=radical" alt="Project 2" />
           </a>
         </p>
         <p align="center">
           A brief description of Project 2 goes here. 🔥<br/>
-          <a href="https://github.com/Nikitatoser/project-2">View on GitHub</a>
+          <a href="https://github.com/Nikitatoser/TeleBot?tab=readme-ov-file">View on GitHub</a>
         </p>
       </td>
     </tr>
