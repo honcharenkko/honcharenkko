@@ -100,21 +100,13 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=FoodShalom&theme=radical" alt="FoodShalom" />
           </a>
         </p>
-        <p align="center">
-          A brief description of Project 1 goes here. 🚀<br/>
-          <a href="https://github.com/Nikitatoser/FoodShalom">View on GitHub</a>
-        </p>
       </td>
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <p align="center">
           <a href="https://github.com/Nikitatoser/TeleBot">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=TeleBottheme=radical" alt="Project 2" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=TeleBot&theme=radical" alt="Project 2" />
           </a>
-        </p>
-        <p align="center">
-          A brief description of Project 2 goes here. 🔥<br/>
-          <a href="https://github.com/Nikitatoser/TeleBot?tab=readme-ov-file">View on GitHub</a>
         </p>
       </td>
     </tr>
@@ -126,21 +118,13 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=project-3&theme=radical" alt="Project 3" />
           </a>
         </p>
-        <p align="center">
-          A brief description of Project 3 goes here. 🌟<br/>
-          <a href="https://github.com/Nikitatoser/project-3">View on GitHub</a>
-        </p>
-      </td>
+        </td>
       <td width="50%">
         <h3 align="center">Project 4</h3>
         <p align="center">
           <a href="https://github.com/Nikitatoser/project-4">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=project-4&theme=radical" alt="Project 4" />
           </a>
-        </p>
-        <p align="center">
-          A brief description of Project 4 goes here. 💻<br/>
-          <a href="https://github.com/Nikitatoser/project-4">View on GitHub</a>
         </p>
       </td>
     </tr>
