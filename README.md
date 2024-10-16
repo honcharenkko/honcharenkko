@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Mobile Developer | Backend Developer 🚀</h3>
 
 <p align="center">
-  <a href="https://your-website.com">🌐 Website</a> |
+  <a href="">🌐 Website</a> |
   <a href="https://www.linkedin.com/in/mykyta-honcharenko-699564326/">LinkedIn</a>
 </p>
 
