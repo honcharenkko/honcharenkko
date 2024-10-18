@@ -115,7 +115,7 @@
       <td width="50%">
         <h3 align="center">Project 3</h3>
         <p align="center">
-          <a href="https://github.com/Nikitatoser/TodoNote">
+          <a href="https://github.com/Nikitatoser/TodoApp">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=TodoNote&theme=radical" alt="Project 3" />
           </a>
         </p>
