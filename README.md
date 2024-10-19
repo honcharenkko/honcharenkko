@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="60px" height="60px"/>
   Mykyta Honcharenko
-  <img src="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" width="60px" height="60px"/>
 </h1>
 
 <h3 align="center">🚀 Mobile Developer | Backend Developer 🚀</h3>
