@@ -121,8 +121,8 @@
       <td width="50%">
         <h3 align="center">Project 4</h3>
         <p align="center">
-          <a href="https://github.com/Nikitatoser/project-4">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=project-4&theme=radical" alt="Project 4" />
+          <a href="https://github.com/Nikitatoser/Portf">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=Portf&theme=radical" alt="Project 4" />
           </a>
         </p>
       </td>
