@@ -2,7 +2,7 @@
   Mykyta Honcharenko
 </h1>
 
-<h3 align="center">🚀 Mobile Developer | Backend Developer 🚀</h3>
+<h3 align="center">🚀 Mobile Developer | Web Developer 🚀</h3>
 
 <p align="center">
   <a href="">🌐 Website</a> |
