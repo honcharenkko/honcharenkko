@@ -5,7 +5,7 @@
 <h3 align="center">Mobile Developer | Web Developer</h3>
 
 <p align="center">
-  <a href="https://nikitatoser.github.io/Portf/">Website</a> |
+  <a href="https://nikitatoser.github.io/honcharenkko/">Website</a> |
   <a href="https://www.linkedin.com/in/mykyta-honcharenko-699564326/">LinkedIn</a>
 </p>
 
