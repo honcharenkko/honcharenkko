@@ -2,7 +2,7 @@
   Mykyta Honcharenko
 </h1>
 
-<h3 align="center">Software Engineer</h3>
+<h2 align="center">Software Developer</h2>
 
 ---
 
