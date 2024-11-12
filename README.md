@@ -4,11 +4,6 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-  <a href="https://nikitatoser.github.io/honcharenkko/">Website</a> |
-  <a href="https://www.linkedin.com/in/mykyta-honcharenko-699564326/">LinkedIn</a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
