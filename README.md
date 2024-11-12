@@ -1,7 +1,6 @@
 <h1 align="center">
   Mykyta Honcharenko
 </h1>
-
 <h2 align="center">Software Developer</h2>
 
 ---
