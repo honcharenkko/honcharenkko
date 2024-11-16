@@ -36,10 +36,6 @@
     <td><strong>📚 Continuous Learning & Adaptability</strong></td>
     <td>Committed to professional growth, staying updated with the latest technologies. Always seeking new challenges and opportunities for innovation.</td>
   </tr>
-  <tr>
-    <td><strong>📫 How to reach me</strong></td>
-    <td>Email: <a href="mailto:honcharenkko@gmaile.com"><strong>honcharenkko@gmaile.com</strong></a> for collaborations or inquiries.</td>
-  </tr>
 </table>
 
 <p align="center">
