@@ -10,17 +10,17 @@
 <table>
   <tr>
     <td><strong>🎓 Education</strong></td>
-    <td><strong>4th-year Software Engineering student</strong> at <strong>Kyiv Polytechnic Institute (KPI), Ukraine</strong>. Focus on modern software development technologies and improving technical skills continuously.</td>
-  </tr>
-  <tr>
-    <td><strong>📱 Mobile Application Development</strong></td>
-    <td>Extensive experience in developing mobile applications using <strong>Kotlin</strong>. Focus on creating efficient and user-friendly solutions.</td>
+    <td><strong>4th-year Software Engineering student</strong> at <strong>Kyiv Polytechnic Institute (KPI), Ukraine</strong>.</td>
   </tr>
   <tr>
     <td><strong>🖥️ Backend Development</strong></td>
     <td>Proficient in backend development with <strong>Python</strong> and <strong>Django</strong>. Skilled in building scalable and secure systems.</td>
   </tr>
   <tr>
+  <tr>
+    <td><strong>📱 Mobile Application Development</strong></td>
+    <td>Extensive experience in developing mobile applications using <strong>Kotlin</strong>. Focus on creating efficient and user-friendly solutions.</td>
+  </tr>
     <td><strong>🌐 Web Development</strong></td>
     <td>Solid understanding of front-end technologies like <strong>HTML5</strong> and <strong>CSS3</strong>. Focus on creating responsive and accessible web interfaces.</td>
   </tr>
@@ -29,7 +29,7 @@
     <td>Experienced in relational and NoSQL databases such as <strong>Firebase</strong>, <strong>Redis</strong>, <strong>MySQL</strong>, and <strong>PostgreSQL</strong>. Knowledgeable in optimizing database performance.</td>
   </tr>
   <tr>
-    <td><strong>🤖 Artificial Intelligence & Automation</strong></td>
+    <td><strong>🤖 AI & Automation</strong></td>
     <td>Practical experience in developing neural networks and <strong>Telegram bots</strong> for automation. Skilled in creating digital assistants and automating workflows.</td>
   </tr>
   <tr>
