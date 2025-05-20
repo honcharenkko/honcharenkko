@@ -95,15 +95,15 @@
 ### 📊 GitHub Stats & Activity :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitatoser&layout=compact&langs_count=8&theme=radical" alt="top-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honcharenkko&layout=compact&langs_count=8&theme=radical" alt="top-languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitatoser&theme=radical" alt="nikitatoser-github-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honcharenkko&theme=radical" alt="nikitatoser-github-streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitatoser&theme=radical" alt="github-summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honcharenkko&theme=radical" alt="github-summary" />
 </p>
 
 ---
@@ -117,7 +117,7 @@
         <h3 align="center">Project 1</h3>
         <p align="center">
           <a href="https://github.com/Nikitatoser/FoodShalom">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=FoodShalom&theme=radical" alt="FoodShalom" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=honcharenkko&repo=FoodShalom&theme=radical" alt="FoodShalom" />
           </a>
         </p>
       </td>
@@ -125,7 +125,7 @@
         <h3 align="center">Project 2</h3>
         <p align="center">
           <a href="https://github.com/Nikitatoser/TeleBot">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=TeleBot&theme=radical" alt="Project 2" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=honcharenkko&repo=TeleBot&theme=radical" alt="Project 2" />
           </a>
         </p>
       </td>
@@ -135,7 +135,7 @@
         <h3 align="center">Project 3</h3>
         <p align="center">
           <a href="https://github.com/Nikitatoser/TodoApp">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=TodoApp&theme=radical" alt="Project 3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=honcharenkko&repo=TodoApp&theme=radical" alt="Project 3" />
           </a>
         </p>
         </td>
@@ -143,7 +143,7 @@
         <h3 align="center">Project 4</h3>
         <p align="center">
           <a href="https://github.com/Nikitatoser/Simple-Tasks">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitatoser&repo=Simple-Tasks&theme=radical" alt="Project 4" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=honcharenkko&repo=Simple-Tasks&theme=radical" alt="Project 4" />
           </a>
         </p>
       </td>
