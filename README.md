@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td><strong>🖥️ Backend Development</strong></td>
-    <td>Proficient in backend development with <strong>Python</strong> and <strong>Django</strong>. Skilled in building scalable and secure systems.</td>
+    <td>Proficient in backend development with <strong>Python</strong>, <strong>Django</strong> and <strong>FastAPI</strong> . Skilled in building scalable and secure systems.</td>
   </tr>
   <tr>
   <tr>
