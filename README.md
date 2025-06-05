@@ -1,9 +1,8 @@
 <h1 align="center">
-  Mykyta Honcharenko
+  Mykyta Honcharenko <br>
+  Software Developer
 </h1>
-<h2 align="center">Software Developer</h2>
 
----
 
 ### 👨‍💻 About Me
 
