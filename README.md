@@ -7,36 +7,16 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td><strong>🎓 Education</strong></td>
-    <td><strong>4th-year Software Engineering student</strong> at <strong>Kyiv Polytechnic Institute (KPI), Ukraine</strong>.</td>
-  </tr>
-  <tr>
-    <td><strong>🖥️ Backend Development</strong></td>
-    <td>Proficient in backend development with <strong>Python</strong>, <strong>Django</strong> and <strong>FastAPI</strong> . Skilled in building scalable and secure systems.</td>
-  </tr>
-  <tr>
-  <tr>
-    <td><strong>📱 Mobile Application Development</strong></td>
-    <td>Extensive experience in developing mobile applications using <strong>Kotlin</strong>. Focus on creating efficient and user-friendly solutions.</td>
-  </tr>
-    <td><strong>🌐 Web Development</strong></td>
-    <td>Solid understanding of front-end technologies like <strong>HTML5</strong> and <strong>CSS3</strong>. Focus on creating responsive and accessible web interfaces.</td>
-  </tr>
-  <tr>
-    <td><strong>🗄️ Database Management</strong></td>
-    <td>Experienced in relational and NoSQL databases such as <strong>Firebase</strong>, <strong>Redis</strong>, <strong>MySQL</strong>, and <strong>PostgreSQL</strong>. Knowledgeable in optimizing database performance.</td>
-  </tr>
-  <tr>
-    <td><strong>🤖 AI & Automation</strong></td>
-    <td>Practical experience in developing neural networks and <strong>Telegram bots</strong> for automation. Skilled in creating digital assistants and automating workflows.</td>
-  </tr>
-  <tr>
-    <td><strong>📚 Continuous Learning & Adaptability</strong></td>
-    <td>Committed to professional growth, staying updated with the latest technologies. Always seeking new challenges and opportunities for innovation.</td>
-  </tr>
-</table>
+🎓 Graduated in **Software Engineering** from **Kyiv Polytechnic Institute (KPI)**, Ukraine.
+
+💼 Passionate developer with experience in building full-stack applications using modern technologies. Focused on creating practical, scalable, and user-oriented solutions.
+
+🧠 Strong interest in AI-powered tools, backend engineering, and educational tech.
+
+🧪 Currently building **Dumka** — an AI-powered platform for creating and sharing interactive educational materials based on user-uploaded content.
+
+---
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Jybjl5Mmx4OWRoZGs1ajkxaGJ6YTBpZXJkNHJlMmh6Z3BvMmIwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ghI1gyqKymbY2mfYkD/giphy.gif" alt="coding-gif" width="400"/>
