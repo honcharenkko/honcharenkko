@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honcharenkko&theme=radical" alt="nikitatoser-github-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honcharenkko&theme=radical" alt="honcharenkko-github-streak" />
 </p>
 
 <p align="center">
