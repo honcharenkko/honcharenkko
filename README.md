@@ -77,9 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honcharenkko&layout=compact&langs_count=8&theme=radical" alt="top-languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honcharenkko&theme=radical" alt="honcharenkko-github-streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honcharenkko&theme=radical" alt="github-summary" />
