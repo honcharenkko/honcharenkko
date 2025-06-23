@@ -12,7 +12,7 @@
 
 🧠 Strong interest in AI-powered tools, backend engineering, and educational tech.
 
-🧪 Currently building **Qviby** — an AI-powered platform for creating and sharing interactive educational materials based on user-uploaded content.
+🧪 Currently building **Qvibly** — an AI-powered platform for creating and sharing interactive educational materials based on user-uploaded content.
 
 ---
 
