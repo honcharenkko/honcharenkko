@@ -1,6 +1,6 @@
 <h1 align="center">
   Mykyta Honcharenko <br>
-  Software Developer
+  Backend-focused Fullstack Developer
 </h1>
 
 
